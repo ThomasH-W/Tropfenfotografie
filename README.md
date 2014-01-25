@@ -1,4 +1,4 @@
-## WTropfenfotografie mit Raspberry und Lichtschranke ##
+## Tropfenfotografie mit Raspberry und Lichtschranke ##
 
 In der c't Hardware Hacks 01/13 wurde beschrieben, wie man Tropfen fotografiert. Der Aufbau basierte auf einem Arduino. 
 Dieser Artikel beschreibt die Umsetzung mit einem Raspberry Pi. Weiterhin habe ich Funkauslöser für Kamera und Blitz eingesetzt.
@@ -69,3 +69,10 @@ Parameter
     -s 100  # Fallzeit erechnet auf Fallhöhe
     -i 10     # Inkrement für den nächsten Durchlauf
     -d 20  # Auslöseverzögerung  (Funkauslöser + Kamera)
+
+
+Weitere Info: 
+[http://www.hoeser-medien.de/?p=1184](http://www.hoeser-medien.de/?p=1184)
+
+Weitere Bilder:
+[http://www.hoeser-medien.de/?p=1267](http://www.hoeser-medien.de/?p=1267)
